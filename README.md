@@ -1,5 +1,5 @@
 # Beta-OOP-JAVA
-Tugas Beta membuat OPP JAVA
+Tugas Beta membuat OOP JAVA
 
 
 <p><a href="https://github.com/AdRavi89/Beta-OOP-JAVA/blob/291c41746822cca3dbcdc1470c3fbb03481914a5/ATMProgram.java">ATMProgram.java</a></p>
